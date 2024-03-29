@@ -1,5 +1,5 @@
 streamlit
 requests
-googlesearch
+googlesearch-python
 bs4
 BeautifulSoup
