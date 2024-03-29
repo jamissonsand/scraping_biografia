@@ -2,4 +2,3 @@ streamlit
 requests
 googlesearch-python
 bs4
-BeautifulSoup
